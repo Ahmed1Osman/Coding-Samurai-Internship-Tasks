@@ -1,1 +1,1 @@
-# make projects using machine learning
+# projects using machine learning
